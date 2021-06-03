@@ -1,27 +1,27 @@
 # OgrenciBilgiSistemi
+https://github.com/YusufCaglarAksoy
+https://github.com/gizem-ucar
+https://github.com/ucercagatay
+https://github.com/AliMrtB
+https://github.com/kadirarsln
+https://github.com/tuncayforma
+https://github.com/berkgulsen
+https://github.com/KarciSerhat
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
+Bu proje , ekibimiz ile çok kısa bir sürede geliştirildi. Okul proje ödevi olarak verildi. Biz bu projeyi elimzden geldiğince SOLID, AOP ,OOP,IoC gibi geliştirme tekniklerine
+bağlı kaldık. Temiz kod yazmaya çalıştık. Hatalarımız olabilir bu konuda yardımcı olmak isterseniz email atmanız yeterli. 
 
-## Development server
+This project was developed in a very short time with our team. Given as a school project assignment. We use this project to develop techniques such as SOLID, AOP, OOP, IoC as 
+much as we can. We are connected. We tried to write clean code. We may have mistakes, if you want to help with this, just send an e-mail.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![image](https://user-images.githubusercontent.com/57556334/120636655-8c105e00-c476-11eb-9ee7-8f4eb74d0430.png)
 
-## Code scaffolding
+![image](https://user-images.githubusercontent.com/57556334/120636792-bd892980-c476-11eb-8e12-6a7bad7270cd.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![image](https://user-images.githubusercontent.com/57556334/120637044-15c02b80-c477-11eb-9b5e-600e8e357368.png)
 
-## Build
+![image](https://user-images.githubusercontent.com/57556334/120637156-338d9080-c477-11eb-8e00-802dc082251c.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![image](https://user-images.githubusercontent.com/57556334/120636869-dc87bb80-c476-11eb-912a-49d1657e5bb9.png)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/57556334/120637101-24a6de00-c477-11eb-9aaf-05e3b7d5e89f.png)
